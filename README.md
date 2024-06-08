@@ -2,7 +2,7 @@
 
 In this project, we implement an agent using the Q-Learning algorithm to play FrozenLake, a stochastic environment provided by the Gymnasium library. The objective of the game is to navigate from the starting point to the goal, avoiding holes on a slippery, frozen lake.
 
-![Frozen Lake](frozenlake.png)
+![Frozen Lake](FrozenLake.png)
 
 ## Overview
 
@@ -41,7 +41,7 @@ This project demonstrates the implementation of a reinforcement learning agent u
 
 ## Authors
 
-- **Nom de l'étudiant** - Étudiant en deuxième année d'ingénierie informatique à l'ENSI.
+- **Hassen Gadacha** - Étudiant en deuxième année d'ingénierie informatique à l'ENSI.
 
 ## License
 
